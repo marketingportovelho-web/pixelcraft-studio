@@ -1,0 +1,6 @@
+{
+  "name": "PixelCraft Studio",
+  "description": "Conversor profissional de fotos em gráficos quadriculados para Ponto Cruz, Crochê Conduzido e Tapeçaria com quantização de cores, símbolos e exportação em alta resolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
